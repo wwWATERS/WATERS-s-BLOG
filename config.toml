@@ -1,4 +1,4 @@
-baseurl = "https://www.waterslog.me"
+baseurl = "http://waterslog.me/"
 title = "Build My Passive Income"
 theme = "hugo-coder"
 languagecode = "zh-cn"
@@ -160,7 +160,7 @@ FootnoteReturnLinkContents = "↑"
         title = "构建我的被动收入"
 
         [languages.zh-cn.params]
-            author = "马大伟"
+            author = "WATERS"
             info = "self 🐶 dev 🐱 money"
             description = "通过自我管理（GTD、时间管理、知识管理、写作、财务管理）、全栈开发（前端、后端、移动端、DevOps）、投资交易（指数投资、基金、股票、债券）、网赚项目（SEO、Affiliate、Media Buy、Niche、社交媒体）来建立被动收入"
             keywords = "自我管理、时间管理、GTD、写作、摄影、笔记管理、知识管理、财务管理、全栈开发、指数投资、基金、股票、债券、SEO、Affiliate、Media Buy、Niche、社交媒体、被动收入、网赚"
