@@ -157,7 +157,7 @@ FootnoteReturnLinkContents = "↑"
 
     [languages.zh-cn]
         languagename = "Chinese"
-        title = "构建我的被动收入"
+        title = "Less is More"
 
         [languages.zh-cn.params]
             author = "WATERS"
