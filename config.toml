@@ -1,4 +1,4 @@
-baseurl = "http://waterslog.me/"
+baseurl = "https://waterslog.me/"
 title = "Build My Passive Income"
 theme = "hugo-coder"
 languagecode = "zh-cn"
