@@ -173,7 +173,7 @@ FootnoteReturnLinkContents = "↑"
                 weight = 1
                 url = "/about/"
             [[languages.zh-cn.menu.main]]
-                name = "自我管理"
+                name = "LIFE"
                 weight = 2
                 url  = "/self/"
             [[languages.zh-cn.menu.main]]
