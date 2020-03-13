@@ -37,14 +37,14 @@ FootnoteReturnLinkContents = "↑"
     info = "看看这个世界"
     description = "Self-management + IT technology + Investment transactions = build my passive income"
     keywords = "life,dev,trade,passive income,money,developer,Self-management,IT technology,investment transactions"
-    avatarurl = "images/mdw.png"
+    avatarurl = "https://cdn.sspai.com/2019/03/07/22e042dd797cd86f72ede915501282cd.jpg"
     logoImg = "images/bmpi_logo.jpg"
-    header = "BMPI.dev"
+    header = "WATERS. BLOG"
 
-    twitter = "madawei2699"
-    github = "bmpi-dev"
-    telegram = "bmpi365"
-    zhihu = "improve365"
+    twitter = "_MartinWaters"
+    github = "wwWaters"
+    telegram = "wwWaters"
+    zhihu = "WATERS"
 
     favicon_32 = "images/f/favicon-32x32.png"
     favicon_16 = "images/f/favicon-16x16.png"
@@ -97,12 +97,12 @@ FootnoteReturnLinkContents = "↑"
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 2
-    url = "https://twitter.com/wwWATERS"
+    url = "https://twitter.com/_MartinWaters"
 [[params.social]]
     name = "Telegram"
     icon = "fab fa-telegram"
     weight = 3
-    url = "https://t.me/s/bmpi365"
+    url = "https://t.me/s/wwWaters"
 [[params.social]]
     name = "WeChat"
     icon = "fab fa-weixin"
@@ -117,7 +117,7 @@ FootnoteReturnLinkContents = "↑"
     name = "Newsletter"
     icon = "fas fa-envelope"
     weight = 6
-    url = "https://tinyletter.com/i365"
+    url = " "
 [[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
@@ -135,29 +135,21 @@ FootnoteReturnLinkContents = "↑"
                 weight = 1
                 url = "/about/"
             [[languages.en.menu.main]]
-                name = "Self"
+                name = "life"
                 weight = 2
-                url  = "/self/"
+                url  = "/life/"
             [[languages.en.menu.main]]
-                name = "Dev"
+                name = "App"
                 weight = 3
-                url  = "/dev/"
+                url  = "/app/"
             [[languages.en.menu.main]]
-                name = "Money"
+                name = "Code"
                 weight = 4
-                url  = "/money/"
-            [[languages.en.menu.main]]
-                name = "Project"
-                weight = 5
-                url  = "/project/"
-            [[languages.en.menu.main]]
-                name = "Goal"
-                weight = 6
-                url  = "/goal/"
+                url  = "/code/"
 
     [languages.zh-cn]
         languagename = "Chinese"
-        title = "Less is More"
+        title = "WATERS's Blog"
 
         [languages.zh-cn.params]
             author = "WATERS"
@@ -169,30 +161,18 @@ FootnoteReturnLinkContents = "↑"
         [languages.zh-cn.menu]
 
             [[languages.zh-cn.menu.main]]
-                name = "ABOUT"
+                name = "About"
                 weight = 1
                 url = "/about/"
             [[languages.zh-cn.menu.main]]
-                name = "LIFE"
+                name = "Life"
                 weight = 2
-                url  = "/self/"
+                url  = "/life/"
             [[languages.zh-cn.menu.main]]
-                name = "全栈开发"
+                name = "App"
                 weight = 3
-                url  = "/dev/"
+                url  = "/app/"
             [[languages.zh-cn.menu.main]]
-                name = "被动收入"
+                name = "Code"
                 weight = 4
-                url  = "/money/"
-            [[languages.zh-cn.menu.main]]
-                name = "项目"
-                weight = 5
-                url  = "/project/"
-            [[languages.zh-cn.menu.main]]
-                name = "目标"
-                weight = 6
-                url  = "/goal/"
-            [[languages.zh-cn.menu.main]]
-                name = "扯淡"
-                weight = 7
-                url  = "https://tg.bmpi.dev"
+                url  = "/code/"
